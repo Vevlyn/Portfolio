@@ -9,7 +9,7 @@ I will be adding a demo R and Python project to this repository within the comin
 
 Using the Northwind database with PostgreSQL, I have created a number of SQL queries with varying degrees of complexity to answer common queries that would be posed by sales teams, procurement teams, and HR teams.
 
-The file the the SQL queries can be view here: https://github.com/Vevlyn/Portfolio_projects/blob/main/SQL_examples.sql
+The file with all of the SQL queries can be viewed here: https://github.com/Vevlyn/Portfolio_projects/blob/main/SQL_examples.sql
 
 
 
