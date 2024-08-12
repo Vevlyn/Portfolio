@@ -3,7 +3,7 @@
 Hi, this is my small repository to briefly showcase some of my skills in data analytics.
 
 I am skilled in many data analytics tools and languages including Power BI, Tableau, Microsoft Excel, R, Python and SQL.
-I will be adding a demo R and Python project to this repository within the coming week.
+I will be adding additional demo projects in Python and R to this repository very soon.
 
 # SQL
 
